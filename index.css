@@ -1,0 +1,9 @@
+body {
+  background: rgb(221, 170, 241);
+}
+div {
+  color: black;
+  font-size: 75px;
+  margin-top: 250px;
+  text-align: center;
+}
